@@ -1,0 +1,7 @@
+psutil
+numpy
+tensorflow==1.14
+scipy
+nltk
+sklearn
+annoy==1.8.0

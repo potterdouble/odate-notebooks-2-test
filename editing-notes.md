@@ -32,4 +32,9 @@
   - PAS suffering strikes again
   - Updated both R activities but both require R Studio to work...
 
+- **Creativity I**
+  - `semanticsimilaritychatbot` might be broken --> in final section, chatbot only returns one response after building
 
+- **Clustering w Tensorflow**
+  - May need to update line in find-similar-imgs notebook --> The repo is at [github](https://github.com/o-date/Identifying-Similar-Images-with-TensorFlow). The various python bits and pieces are called from the `requirements.txt` file, which saves us from having to `!pip install`.
+  - `annoy` might be broken, need to test on 3.6
