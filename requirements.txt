@@ -1,5 +1,3 @@
-# jupyterlab-theme-toggler==1.0.0
 ./odate-extensions/jlab_cell_run-0.1.0-py3-none-any.whl
 ./odate-extensions/jlab_solarised_dark_theme-0.2.0-py3-none-any.whl
 ./odate-extensions/jlab_solarised_light_theme-0.2.0-py3-none-any.whl
-./odate-extensions/jupyterlab_theme_toggler-1.1.0-py3-none-any.whl
