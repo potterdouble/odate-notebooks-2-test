@@ -1,0 +1,36 @@
+# Notebook Distribution Notes
+- [x] Agent-based models
+  - boltzmann-wealth-model-network --> add orbis data bc curl doesn't work
+  - conda version of `mesa` is behind pip version, so `rng` needs to be converted back to `iterations`
+  - virus-on-a-network can't be run in JL bc of Netlogo
+- [x] Arch Data in R
+- [x] Clustering Imgs -> Colab
+  - torch
+- [x] Computer Vision -> Colab
+  - tensorflow
+- [x] Creativity I
+  - glitching-image
+    - In JL: `!python` -> `%run`
+    - Forgot to change img path in first cell oop
+    - Maybe just remove the inserted prismsort at the start?
+    - `from IPython.display import Image` does not persist across cells?
+  - practical-necromancy needs colab for GPT
+- Creativity II
+  - Worldbuilding
+    - Forgot to clear data oop
+  - History generator works *mostly* but no graphviz in JL :(
+- Databases
+  - Python notebooks work (ignoring sqlitebiter) but R notebooks don't due to RSQLite package
+- [x] LiDAR -> Colab
+  - datashader
+- [x] LOD -> Colab
+  - SPARQL
+- [x] Scraping -> Colab
+  - Tesseract
+  - Scrapy
+- [x] Sonification
+  - miditime depends on midiutil
+- [x] Spatial Arch
+  - All the GIS libraries lol
+- [v] APIs
+  

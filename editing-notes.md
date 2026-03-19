@@ -57,3 +57,6 @@
 - **ABM**
   - Updated python scripts, but removing visualising in browser option bc they just totally re-did that system
   - *Solution*: combo of digiarch-labbench and mesa updated
+
+- Intro Notebook Update
+  - How to select kernel
