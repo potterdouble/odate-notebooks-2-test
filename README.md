@@ -1,3 +1,3 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/o-date/creativity2/master)
+# Creativity II
 
-[![DOI](https://zenodo.org/badge/141634596.svg)](https://zenodo.org/badge/latestdoi/141634596)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ChantalMB/odate-notebooks-wip/creativity-ii)
