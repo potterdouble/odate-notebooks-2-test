@@ -60,4 +60,5 @@
 
 - Intro Notebook Update
   - How to select kernel
+  - Instructions for how to open notebooks + data in Colab
   - Remember to clear output of notebooks you're finished with! This is usually the culprit of Binder's angry red "Memory" pop up
