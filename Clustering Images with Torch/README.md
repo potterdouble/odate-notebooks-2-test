@@ -1,10 +1,8 @@
-# Identifying-Similar-Images-with-TensorFlow
+# Identifying-Similar-Images-with-Torch
 
 You can launch this jupyter notebook in an executable environment by clicking on the button below.
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/o-date/Identifying-Similar-Images-with-TensorFlow-notebooks/HEAD)
-
-[![DOI](https://zenodo.org/badge/132169566.svg)](https://zenodo.org/badge/latestdoi/132169566)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ChantalMB/odate-notebooks-wip/clustering-images)
 
 If you haven't worked with jupyter notebooks before, try the 'Getting Started' notebook first. Otherwise, go with the 'Finding Similar Images' one. Then, you can try examining the results with the 'Affinity propagation' notebook, or the 'visualizing as a network' notebook. Please note that for both of those subsequent notebooks, you _will_ have to make some adjustments to some of the resulting .json or .csv files from 'finding similar images'. Nothing serious.
 

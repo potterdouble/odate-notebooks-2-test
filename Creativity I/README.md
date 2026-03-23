@@ -1,7 +1,6 @@
-# creativity
-[![DOI](https://zenodo.org/badge/141647407.svg)](https://zenodo.org/badge/latestdoi/141647407)
+# Creativity I
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/o-date/creativity/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ChantalMB/odate-notebooks-wip/creativity-i)
 
 Euphronios Krater [Wikimedia](https://commons.wikimedia.org/wiki/File:Berl%C3%ADn_Euphronios_01.JPG)
 
