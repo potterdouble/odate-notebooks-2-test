@@ -1,4 +1,5 @@
 # System
+- poppler-utils
 - tesseract-ocr
 
 # Python
