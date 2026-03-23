@@ -5,5 +5,5 @@ lazrs
 rasterio
 pandas
 numpy
-matplotlib
+matplotlib<3.10
 scipy
