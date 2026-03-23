@@ -1,0 +1,4 @@
+pytesseract 
+img2table
+matplotlib
+scrapy
