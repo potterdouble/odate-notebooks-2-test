@@ -1,2 +1,5 @@
+conda install rtree
 conda install gdal
-
+pip install --upgrade setup tools
+pip install pygeoprocessing
+pip install rasterio
