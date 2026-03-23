@@ -1,4 +1,5 @@
-libmkl-rt
+libglpk-dev 
+libxml2-dev
 libudunits2-dev
 libgdal-dev
 libgeos-dev
