@@ -1,4 +1,3 @@
-GDAL
 osgeo
 pandas
 requests
@@ -16,6 +15,4 @@ opencv-python
 numpy
 shapely
 ipywidgets
-rasterio
 scipy
-pygeoprocessing

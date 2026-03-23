@@ -1,4 +1,4 @@
-# ODATE Users:
+# Spatial Archaeology
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ChantalMB/odate-notebooks-wip/spatial-arch)
 
