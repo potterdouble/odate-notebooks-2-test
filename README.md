@@ -1,4 +1,4 @@
-# Identifying-Similar-Images-with-Torch
+# Identifying Similar Images with Torch
 
 You can launch this jupyter notebook in an executable environment by clicking on the button below.
 
