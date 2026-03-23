@@ -1,6 +1,8 @@
 # ODATE Users:
 
-archived odate version: [![DOI](https://zenodo.org/badge/142212106.svg)](https://zenodo.org/badge/latestdoi/142212106)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ChantalMB/odate-notebooks-wip/spatial-arch)
+
+Archived odate version: [![DOI](https://zenodo.org/badge/142212106.svg)](https://zenodo.org/badge/latestdoi/142212106)
 
 These notebooks are courtesy [Dr. Rachel Opitz, of the University of Glasgow](https://www.gla.ac.uk/schools/humanities/staff/rachelopitz/) who is Lecturer in Spatial Archaeology. There are two binders below which can be launched; consider launching Dr. Opitz Binder as she updates the work for her own teaching. Alternatively, use the ODATE version that is updated only periodically.
 
@@ -14,10 +16,6 @@ Here's how to get started:
 
  * Access the notebooks for different lessons in the binder
  * Click 'launch binder' (go make a cup of tea and wait while the environment builds) and then click the notebook for your lesson to get started. 
-
-Dr. Opitz's version, which continues to develop:  [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ropitz/spatialarchaeology/master)
-
-ODATE version: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/shawngraham/spatialarchaeology/master)
 
 # Archaeology of Scotland Modules
 *  'linlithgow_spatial.ipynb' explores burial data and is intended for Archaeology of Scotland
