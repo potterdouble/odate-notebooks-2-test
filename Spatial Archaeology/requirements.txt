@@ -9,7 +9,7 @@ pysal
 seaborn
 scikit-learn
 scikit-image
-opencv-python
+opencv-python-headless
 numpy
 shapely
 ipywidgets
