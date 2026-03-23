@@ -60,3 +60,4 @@
 
 - Intro Notebook Update
   - How to select kernel
+  - Remember to clear output of notebooks you're finished with! This is usually the culprit of Binder's angry red "Memory" pop up
