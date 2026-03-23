@@ -1,6 +1,4 @@
-osgeo
 pandas
-requests
 fiona
 geopandas
 bokeh
