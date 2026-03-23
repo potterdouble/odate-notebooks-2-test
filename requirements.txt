@@ -1,0 +1,4 @@
+pillow
+ipython
+gpt_2_simple
+
