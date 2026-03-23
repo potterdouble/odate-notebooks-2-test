@@ -5,3 +5,4 @@ pandas
 ipython
 scipy
 extrema
+tracery
