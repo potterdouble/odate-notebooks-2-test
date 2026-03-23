@@ -1,0 +1,5 @@
+install.packages(c("sf", "terra", "lattice"), type = "binary")
+install.packages(c("protolite"), type = "binary")
+install.packages(c("geojsonio"))
+install.packages(c("curl"))
+install.packages(c("gridExtra"))

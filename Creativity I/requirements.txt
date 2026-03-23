@@ -1,8 +1,4 @@
-spacy
-simpleneighbors
-https://github.com/aparrish/semanticsimilaritychatbot/archive/master.zip
-Pillow
-matplotlib
-scipy
-pandas
+pillow
+ipython
+gpt_2_simple
 

@@ -1,3 +1,2 @@
-default-jre
-default-jdk
-libmagick++-dev
+poppler-utils
+tesseract-ocr

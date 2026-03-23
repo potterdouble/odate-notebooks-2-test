@@ -1,0 +1,129 @@
+name: Deploy for Binder
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    name: Deploy for Binder
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+
+    - name: Deploy ABM
+      uses: s0/git-publish-subdir-action@develop
+      env:
+        REPO: self
+        BRANCH: abm
+        FOLDER: "Agent-based Models"
+        GITHUB_TOKEN: ${{ secrets.API_TOKEN_GITHUB }}
+        MESSAGE: "Updating {target-branch} from main"
+
+    - name: Deploy Archdata
+      uses: s0/git-publish-subdir-action@develop
+      env:
+        REPO: self
+        BRANCH: archdata-into-r
+        FOLDER: "Archaeological Data into R"
+        GITHUB_TOKEN: ${{ secrets.API_TOKEN_GITHUB }}
+        MESSAGE: "Updating {target-branch} from main"
+
+    - name: Deploy Clustering
+      uses: s0/git-publish-subdir-action@develop
+      env:
+        REPO: self
+        BRANCH: clustering-images
+        FOLDER: "Clustering Images with Torch"
+        GITHUB_TOKEN: ${{ secrets.API_TOKEN_GITHUB }}
+        MESSAGE: "Updating {target-branch} from main"
+
+    - name: Deploy CV
+      uses: s0/git-publish-subdir-action@develop
+      env:
+        REPO: self
+        BRANCH: computer-vision
+        FOLDER: "Computer Vision"
+        GITHUB_TOKEN: ${{ secrets.API_TOKEN_GITHUB }}
+        MESSAGE: "Updating {target-branch} from main"
+
+    - name: Deploy Creativity I
+      uses: s0/git-publish-subdir-action@develop
+      env:
+        REPO: self
+        BRANCH: creativity-i
+        FOLDER: "Creativity I"
+        GITHUB_TOKEN: ${{ secrets.API_TOKEN_GITHUB }}
+        MESSAGE: "Updating {target-branch} from main"
+
+    - name: Deploy Creativity II
+      uses: s0/git-publish-subdir-action@develop
+      env:
+        REPO: self
+        BRANCH: creativity-ii
+        FOLDER: "Creativity II"
+        GITHUB_TOKEN: ${{ secrets.API_TOKEN_GITHUB }}
+        MESSAGE: "Updating {target-branch} from main"
+    
+    - name: Deploy Databases
+      uses: s0/git-publish-subdir-action@develop
+      env:
+        REPO: self
+        BRANCH: databases
+        FOLDER: Databases
+        GITHUB_TOKEN: ${{ secrets.API_TOKEN_GITHUB }}
+        MESSAGE: "Updating {target-branch} from main"
+
+    - name: Deploy LiDAR
+      uses: s0/git-publish-subdir-action@develop
+      env:
+        REPO: self
+        BRANCH: lidar
+        FOLDER: LiDAR
+        GITHUB_TOKEN: ${{ secrets.API_TOKEN_GITHUB }}
+        MESSAGE: "Updating {target-branch} from main"
+
+    - name: Deploy LOD
+      uses: s0/git-publish-subdir-action@develop
+      env:
+        REPO: self
+        BRANCH: lod
+        FOLDER: "Linked Open Data"
+        GITHUB_TOKEN: ${{ secrets.API_TOKEN_GITHUB }}
+        MESSAGE: "Updating {target-branch} from main"
+
+    - name: Deploy Scraping
+      uses: s0/git-publish-subdir-action@develop
+      env:
+        REPO: self
+        BRANCH: scraping
+        FOLDER: Scraping
+        GITHUB_TOKEN: ${{ secrets.API_TOKEN_GITHUB }}
+        MESSAGE: "Updating {target-branch} from main"
+
+    - name: Deploy Sonification
+      uses: s0/git-publish-subdir-action@develop
+      env:
+        REPO: self
+        BRANCH: sonification
+        FOLDER: Sonification
+        GITHUB_TOKEN: ${{ secrets.API_TOKEN_GITHUB }}
+        MESSAGE: "Updating {target-branch} from main"
+    
+    - name: Deploy Spatial Archaeology
+      uses: s0/git-publish-subdir-action@develop
+      env:
+        REPO: self
+        BRANCH: spatial-arch
+        FOLDER: "Spatial Archaeology"
+        GITHUB_TOKEN: ${{ secrets.API_TOKEN_GITHUB }}
+        MESSAGE: "Updating {target-branch} from main"
+    
+    - name: Deploy APIs
+      uses: s0/git-publish-subdir-action@develop
+      env:
+        REPO: self
+        BRANCH: apis
+        FOLDER: "Working with APIs"
+        GITHUB_TOKEN: ${{ secrets.API_TOKEN_GITHUB }}
+        MESSAGE: "Updating {target-branch} from main"

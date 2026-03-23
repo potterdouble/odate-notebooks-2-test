@@ -1,4 +1,7 @@
-tracery
 numpy
 networkx
 matplotlib
+pandas
+ipython
+scipy
+extrema

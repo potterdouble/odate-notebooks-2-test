@@ -1,4 +1,0 @@
-libboost-dev 
-libboost-program-options-dev
-cmake
-cmake-curses-gui

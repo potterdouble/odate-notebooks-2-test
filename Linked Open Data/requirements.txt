@@ -1,1 +1,2 @@
-sparqlkernel
+plodlib @ git+https://github.com/p-lod/plodlib
+pandas

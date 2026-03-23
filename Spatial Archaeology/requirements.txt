@@ -1,3 +1,4 @@
+osgeo
 pandas
 requests
 fiona
@@ -8,6 +9,11 @@ descartes
 rtree
 pysal
 seaborn
-sklearn
+scikit-learn
 scikit-image
 opencv-python
+numpy
+shapely
+ipywidgets
+rasterio
+pygeoprocessing

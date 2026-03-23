@@ -1,2 +1,4 @@
 tensorflow
-beautifulsoup4
+numpy
+matplotlib
+pillow

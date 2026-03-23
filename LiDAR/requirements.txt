@@ -1,6 +1,9 @@
-numpy
-pandas
-matplotlib
 imageio
-laspy[lazrs,laszip]
+laspy
 datashader
+lazrs
+rasterio
+pandas
+numpy
+matplotlib
+scipy
