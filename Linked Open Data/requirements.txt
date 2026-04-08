@@ -1,2 +1,6 @@
 plodlib @ git+https://github.com/p-lod/plodlib
 pandas
+
+jlab_cell_run @ https://github.com/ChantalMB/odate-notebooks-wip/raw/refs/heads/main/odate-extensions/jlab_cell_run-0.1.0-py3-none-any.whl
+jlab_solarised_dark_theme @ https://github.com/ChantalMB/odate-notebooks-wip/raw/refs/heads/main/odate-extensions/jlab_solarised_dark_theme-0.2.0-py3-none-any.whl
+jlab_solarised_light_theme @ https://github.com/ChantalMB/odate-notebooks-wip/raw/refs/heads/main/odate-extensions/jlab_solarised_light_theme-0.2.0-py3-none-any.whl
