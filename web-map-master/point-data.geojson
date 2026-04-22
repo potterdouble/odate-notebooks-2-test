@@ -1,0 +1,236 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.4613936,40.61462867 ]
+    },
+    "properties": {
+    "Label":"United States",
+    "MNumber":145
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.45871038,40.61448579 ]
+    },
+    "properties": {
+    "Label":"Germany",
+    "MNumber":526
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.45889107,40.60836676 ]
+    },
+    "properties": {
+    "Label":"United States",
+    "MNumber":131
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.45859497,40.61037665 ]
+    },
+    "properties": {
+    "Label":"United Kingdom",
+    "MNumber":114
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.45120773,40.60962186 ]
+    },
+    "properties": {
+    "Label":"United States",
+    "MNumber":220
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.46033665,40.61725773 ]
+    },
+    "properties": {
+    "Label":"Ireland",
+    "MNumber":733
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.45903285,40.61418404 ]
+    },
+    "properties": {
+    "Label":"United States",
+    "MNumber":521
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.46200107,40.61744964 ]
+    },
+    "properties": {
+    "Label":"Ireland",
+    "MNumber":129
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.46108219,40.61134822 ]
+    },
+    "properties": {
+    "Label":"United States",
+    "MNumber":164
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.46274457,40.6148029 ]
+    },
+    "properties": {
+    "Label":"Ireland",
+    "MNumber":625
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.481145,40.604201 ]
+    },
+    "properties": {
+    "Label":"United States",
+    "MNumber":230
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.4657867,40.60153752 ]
+    },
+    "properties": {
+    "Label":"Spain",
+    "MNumber":422
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.481145,40.604201 ]
+    },
+    "properties": {
+    "Label":"United States",
+    "MNumber":525
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.46849082,40.59877725 ]
+    },
+    "properties": {
+    "Label":"Switzerland",
+    "MNumber":324
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.46066998,40.61304554 ]
+    },
+    "properties": {
+    "Label":"Spain",
+    "MNumber":144
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.46137279,40.60647306 ]
+    },
+    "properties": {
+    "Label":"Greece",
+    "MNumber":224
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.481145,40.604201 ]
+    },
+    "properties": {
+    "Label":"United States",
+    "MNumber":207
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.46138049,40.61051168 ]
+    },
+    "properties": {
+    "Label":"United States",
+    "MNumber":186
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.45893564,40.60964563 ]
+    },
+    "properties": {
+    "Label":"United States",
+    "MNumber":224
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.46018645,40.61421348 ]
+    },
+    "properties": {
+    "Label":"United States",
+    "MNumber":529
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.45970848,40.60912367 ]
+    },
+    "properties": {
+    "Label":"United States",
+    "MNumber":216
+    }
+  }
+]
+}
